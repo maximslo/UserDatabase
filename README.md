@@ -7,6 +7,7 @@ A simple program to manage student and professor data.
 
 *Unit Tests with JUnit*
 - [How to configure JUnit in VSCode](https://code.visualstudio.com/docs/java/java-testing)
+- Testing is done in unitTests.java
 - Requirements:
   -  JDK (version 1.8 or later)
   -  Visual Studio Code (version 1.59.0 or later)
