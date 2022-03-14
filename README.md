@@ -3,7 +3,7 @@
 
 A simple program to manage student and professor data.
 - Files included: src (source code), test (unit tests using JUnit), and lib (framework libraries).
-- To try the database, simply run UI.java - the user interface will be in terminal.
+- To try the database, simply run UI.java in any IDE - the user interface will be in terminal.
 
 
 *Unit Tests with JUnit*
