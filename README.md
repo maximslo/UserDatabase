@@ -6,8 +6,7 @@ A simple program to manage student and professor data.
 - To try the database, simply run UI.java - the user interface will be in terminal.
 
 *Unit Tests with JUnit*
-- [How to configure JUnit in VSCode](https://code.visualstudio.com/docs/java/java-testing)
-- Testing is done in unitTests.java
+- [How to configure and use JUnit in VSCode](https://code.visualstudio.com/docs/java/java-testing). Testing is done in unitTests.java, using JUnit interface
 - Requirements:
   -  JDK (version 1.8 or later)
   -  Visual Studio Code (version 1.59.0 or later)
