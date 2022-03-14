@@ -2,8 +2,8 @@
 **By Maxim Slobodchikov (maxims@bu.edu)**
 
 A simple program to manage student and professor data.
-- Files included: src (source code), test (unit tests using JUnit), and lib (framework libraries)
-- To see how the database works, simply run UI.java. The user interface will be in terminal
+- Files included: src (source code), test (unit tests using JUnit), and lib (framework libraries).
+- To try the database, simply run UI.java - the user interface will be in terminal.
 
 *Unit Tests with JUnit*
 - [How to configure JUnit in VSCode](https://code.visualstudio.com/docs/java/java-testing)
