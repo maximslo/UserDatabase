@@ -4,7 +4,6 @@
 A simple program to manage student and professor data.
 - Files included: src (source code), test (unit tests using JUnit), and lib (framework libraries)
 - To see how the database works, simply run UI.java. The user interface will be in terminal
-<img width="301" alt="image" src="https://user-images.githubusercontent.com/93232189/158273770-be3f8c49-6382-48aa-8939-a34c931e197e.png">
 
 *Unit Tests with JUnit*
 - [How to configure JUnit in VSCode](https://code.visualstudio.com/docs/java/java-testing)
