@@ -1,4 +1,4 @@
-# Chegg User Database
+# 👥 Chegg User Database
 **By Maxim Slobodchikov (maxims@bu.edu)**
 
 A simple program to manage student and professor data.
